@@ -1,0 +1,16 @@
+import React from 'react'
+import { Link } from 'react-router-dom'
+import intl from 'react-intl-universal'
+import {} from '@glamering/griddle'
+import { subscribe, connect } from '@glamering/lackey'
+import actions from 'Redux/{{ MODULE_NAME }}'
+import './style/index.scss'
+
+@connect(state => subscribe(), {})
+export default class {{ MODULE_NAME }} extends React.PureComponent {
+  state={}
+
+  render() {
+    return ()
+  }
+}
