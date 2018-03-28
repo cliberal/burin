@@ -28,6 +28,6 @@ there's an example `.burin` fold
 note that all templates end with `.njk`
 
 ## TODO
-- [ ] add eslint
+- [ ] add eslint
 - [ ] add husky
 - [ ] need tests
