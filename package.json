@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/cliberal/burin#readme",
   "scripts": {
+    "release": "bash ./release/publish.sh",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
@@ -34,6 +35,7 @@
     "inquirer": "^5.2.0",
     "nunjucks": "^3.1.2",
     "pkg-dir": "^2.0.0",
+    "standard-version": "^4.3.0",
     "yargs": "^11.0.0"
   }
 }
