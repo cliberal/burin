@@ -1,6 +1,6 @@
 {
   "name": "burin",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "cli tool for generate sample fold",
   "main": "index.js",
   "bin": {
@@ -13,7 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/cliberal/burin.git"
   },
-  "keywords": ["burin", "generator", "nunjunks"],
+  "keywords": [
+    "burin",
+    "generator",
+    "nunjunks"
+  ],
   "author": "charlie",
   "license": "MIT",
   "bugs": {
