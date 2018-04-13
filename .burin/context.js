@@ -1,3 +1,5 @@
-module.exports = {
-  MODULE_NAME: '', // dir name
+module.exports = argv => {
+  return {
+    MODULE_NAME: '', // dir name
+  }
 }
